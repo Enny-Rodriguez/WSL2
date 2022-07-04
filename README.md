@@ -13,5 +13,7 @@ Las distribuciones de Linux individuales se pueden ejecutar con la arquitectura 
 
 ## VENTAJAS
 
-### ventajas una WSL frente a otros sistemas de virtualización como las maquinas virtuales. 
+### ventajas WSL frente a otros sistemas de virtualización como las maquinas virtuales. 
+
+WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina virtual completa. Asimismo, WSL también te permite ejecutar aplicaciones y herramientas de línea de comandos de Linux junto con la línea de comandos de Windows, aplicaciones de escritorio y de Store, así como la posibilidad de acceder a los archivos de Windows desde Linux. Esto te permite usar las aplicaciones de Windows y las herramientas de línea de comandos de Linux en el mismo conjunto de archivos, si así lo deseas.
 
