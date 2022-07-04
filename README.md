@@ -9,7 +9,9 @@ Esta nueva arquitectura cambia el modo en que estos archivos binarios de Linux i
 
 Las distribuciones de Linux individuales se pueden ejecutar con la arquitectura de WSL 1 o WSL 2. Cada distribución se puede actualizar o degradar en cualquier momento, y puedes ejecutar distribuciones de WSL 1 y WSL 2 en paralelo. WSL 2 usa una arquitectura completamente nueva que aprovecha las ventajas de un kernel de Linux real.
 
+![](imagen.png)
 
+## VENTAJAS
 
+### ventajas una WSL frente a otros sistemas de virtualización como las maquinas virtuales. 
 
-YYYYY
