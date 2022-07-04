@@ -17,3 +17,22 @@ Las distribuciones de Linux individuales se pueden ejecutar con la arquitectura 
 
 WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina virtual completa. Asimismo, WSL también te permite ejecutar aplicaciones y herramientas de línea de comandos de Linux junto con la línea de comandos de Windows, aplicaciones de escritorio y de Store, así como la posibilidad de acceder a los archivos de Windows desde Linux. Esto te permite usar las aplicaciones de Windows y las herramientas de línea de comandos de Linux en el mismo conjunto de archivos, si así lo deseas.
 
+## INSTALACION
+
+### servicios de Windows que deben habilitarse para la correcta ejecución de WSL2.
+
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.1.png)
+![](8.png)
+![](9.png)
+![](10.png)
+![](11.png)
+![](12.png)
+![](13.png)
+
+
