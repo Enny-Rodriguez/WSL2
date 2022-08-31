@@ -9,7 +9,7 @@ Esta nueva arquitectura cambia el modo en que estos archivos binarios de Linux i
 
 Las distribuciones de Linux individuales se pueden ejecutar con la arquitectura de WSL 1 o WSL 2. Cada distribución se puede actualizar o degradar en cualquier momento, y puedes ejecutar distribuciones de WSL 1 y WSL 2 en paralelo. WSL 2 usa una arquitectura completamente nueva que aprovecha las ventajas de un kernel de Linux real.
 
-prueba
+
 
 ![](imagen.png)
 
@@ -83,5 +83,7 @@ Establesemos la version 2 y corremos el siguiente comando  wsl -- set - version.
 ![imagen](/ima/13.jpeg)
 
 Listo, tenemos WSL2  disponible para desarrollar.
+
+![](/ima/comandos.jpg)
 
 
