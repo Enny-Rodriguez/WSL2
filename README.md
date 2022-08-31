@@ -26,60 +26,61 @@ WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina vir
 Para la correcta ejecucion del servicios de Windows que deben habilitarse para la correcta ejecución de WSL2.
 
 
-![imagen](/ima/1.PNG)
+![imagen](/ima/1.png)
 
 Se procede hacer la intalacion de WSL2, dando continuacion a cada uno de los pasos a seguir. Ya que es una herrmienta de desarrollo muy popular en window.
 
 
-![imagen](/ima/3.PNG.jpg)
+![imagen](/ima/3.jpeg)
 
 Aceptamos el permiso que  windows instale esta aplicasion dandole YES.
 
-![imagen](/ima/4.PNG.jpg)
+![imagen](/ima/4.jpeg)
 
 A continuacion comienza la instalacion del programa, tardara unos minutos.
 
-![imagen](/ima/5.PNG.jpg)
+![imagen](/ima/5.jpeg)
 
 Cuando termino la intalacion wsl2, damos final.
 
-![imagen](/ima/6.PNG.jpg)
+![imagen](/ima/6.jpeg)
 
 Entramos a windows powershell y lo ejecutamos como administrador
 
-![imagen](/ima/7.PNG.jpg)
+![imagen](/ima/7.1.jpeg)
 
 
 Ejecutamos el codigo (wls --set-default-version 2)
 
-![imagen](/ima/8.PNG.jpg)
+![imagen](/ima/8.jpeg)
 
 
 Continuamos realizando una instalacion en base de Ubuntu, a travez de la Microsoft Store desde el enlace.
 
-![imagen](/ima/9.png.jpg)
+
+![imagen](/ima/9.jpeg)
 
 
 Cuando termino la descarga,iniciamos la aplicasion y esperamos que termine el proceso y establesemos nuestro usuario y contraseña de nueestra distribucion en linux.
 
 
-![imagen](/ima/10.png.jpg)
+![imagen](/ima/10.jpeg)
 
 
 Abrimos Powershell presionando la combinacion de las teclas Windows + r y escribimos powershel, y le damos aceptar.
 
 
-![imagen](/ima/11.png.jpg)
+![imagen](/ima/11.jpeg)
 
 Nos abrira una terminal donde ejecutaremos el siguiente comando, Wsl -- list -- verbose, donde al ejecutarse se despliega una lista de distribucones instaladas en la maquina.
 
 
-![imagen](/ima/12.png.jpg)
+![imagen](/ima/12.jpeg)
 
 Establesemos la version 2 y corremos el siguiente comando  wsl -- set - version.
 
 
-![imagen](/ima/13.png.jpg)
+![imagen](/ima/13.jpeg)
 
 Listo, tenemos WSL2  disponible para desarrollar.
 
