@@ -21,19 +21,45 @@ WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina vir
 
 ### servicios de Windows que deben habilitarse para la correcta ejecución de WSL2.
 
-![](/ima/1.PNG1)
-![](/ima/2.png)
-![](/ima/3.png)
-![](/ima/4.png)
-![](/ima/5.png)
-![](/ima/6.png)
-![](/ima/7.1.png)
-![](/ima/8.png)
-![](/ima/9.png)
-![](/ima/10.png)
-![](/ima/11.png)
-![](/ima/12.png)
-![](/ima/13.png)
+Para la correcta ejecucion del servicios de Windows que deben habilitarse para la correcta ejecución de WSL2.
+
+
+![](/ima/1.PNG)
+
+Se procede hacer la intalacion de WSL2, dando continuacion a cada uno de los pasos a seguir.
+
+
+![](/ima/3.PNG.jpg)
+
+Acpetamos el permiso que  windows instale esta aplicasion dandole YES.
+
+![](/ima/4.PNG.jpg)
+
+A continuacion comienza la instalacion del programa, tardara unos minutos.
+
+![](/ima/5.PNG.jpg)
+
+Cuando termino la intalacion wsl2, damos final.
+
+![](/ima/6.PNG.jpg)
+
+Entramos a windows powershell y lo ejecutamos como administrador
+
+![](/ima/7.PNG.jpg)
+
+Ejecutamos el codigo (wls --set-default-version 2
+
+![](/ima/8.png.jpg)
+
+![](/ima/9.png.jpg)
+
+![](/ima/10.png.jpg)
+
+![](/ima/11.png.jpg)
+
+![](/ima/12.png.jpg)
+
+![](/ima/13.png.jpg)
 
 
 holaaa
