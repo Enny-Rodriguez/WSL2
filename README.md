@@ -79,3 +79,4 @@ Establesemos la version 2 y corremos el siguiente comando  wsl -- set - version.
 
 Listo, tenemos WSL2  disponible para desarrollar.
 
+
