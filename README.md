@@ -86,4 +86,6 @@ Listo, tenemos WSL2  disponible para desarrollar.
 
 ![](/ima/comandos.jpg)
 
+![](/ima/punto7.jpg)
+
 
