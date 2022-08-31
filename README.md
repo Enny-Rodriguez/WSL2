@@ -26,12 +26,12 @@ Para la correcta ejecucion del servicios de Windows que deben habilitarse para l
 
 ![](/ima/1.PNG)
 
-Se procede hacer la intalacion de WSL2, dando continuacion a cada uno de los pasos a seguir.
+Se procede hacer la intalacion de WSL2, dando continuacion a cada uno de los pasos a seguir. Ya que es una herrmienta de desarrollo muy popular en window.
 
 
 ![](/ima/3.PNG.jpg)
 
-Acpetamos el permiso que  windows instale esta aplicasion dandole YES.
+Aceptamos el permiso que  windows instale esta aplicasion dandole YES.
 
 ![](/ima/4.PNG.jpg)
 
@@ -47,19 +47,35 @@ Entramos a windows powershell y lo ejecutamos como administrador
 
 ![](/ima/7.PNG.jpg)
 
-Ejecutamos el codigo (wls --set-default-version 2
+Ejecutamos el codigo (wls --set-default-version 2)
 
 ![](/ima/8.png.jpg)
 
+Continuamos realizando una instalacion en base de Ubuntu, a travez de la Microsoft Store desde el enlace.
+
+
 ![](/ima/9.png.jpg)
+
+Cuando termino la descarga,iniciamos la aplicasion y esperamos que termine el proceso y establesemos nuestro usuario y contraseña de nueestra distribucion en linux.
+
 
 ![](/ima/10.png.jpg)
 
+
+Abrimos Powershell presionando la combinacion de las teclas Windows + r y escribimos powershel, y le damos aceptar.
+
+
 ![](/ima/11.png.jpg)
+
+Nos abrira una terminal donde ejecutaremos el siguiente comando, Wsl -- list -- verbose, donde al ejecutarse se despliega una lista de distribucones instaladas en la maquina.
+
 
 ![](/ima/12.png.jpg)
 
+Establesemos la version 2 y corremos el siguiente comando  wsl -- set - version.
+
+
 ![](/ima/13.png.jpg)
 
+Listo, tenemos WSL2  disponible para desarrollar.
 
-holaaa
