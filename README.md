@@ -36,3 +36,4 @@ WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina vir
 ![](13.png)
 
 
+holaaa
