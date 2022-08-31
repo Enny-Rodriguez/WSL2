@@ -26,58 +26,60 @@ WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina vir
 Para la correcta ejecucion del servicios de Windows que deben habilitarse para la correcta ejecución de WSL2.
 
 
-![](/ima/1.PNG)
+![imagen](/ima/1.PNG)
 
 Se procede hacer la intalacion de WSL2, dando continuacion a cada uno de los pasos a seguir. Ya que es una herrmienta de desarrollo muy popular en window.
 
 
-![](/ima/3.PNG.jpg)
+![imagen](/ima/3.PNG.jpg)
 
 Aceptamos el permiso que  windows instale esta aplicasion dandole YES.
 
-![](/ima/4.PNG.jpg)
+![imagen](/ima/4.PNG.jpg)
 
 A continuacion comienza la instalacion del programa, tardara unos minutos.
 
-![](/ima/5.PNG.jpg)
+![imagen](/ima/5.PNG.jpg)
 
 Cuando termino la intalacion wsl2, damos final.
 
-![](/ima/6.PNG.jpg)
+![imagen](/ima/6.PNG.jpg)
 
 Entramos a windows powershell y lo ejecutamos como administrador
 
-![](/ima/7.PNG.jpg)
+![imagen](/ima/7.PNG.jpg)
+
 
 Ejecutamos el codigo (wls --set-default-version 2)
 
-![](/ima/8.png.jpg)
+![imagen](/ima/8.PNG.jpg)
+
 
 Continuamos realizando una instalacion en base de Ubuntu, a travez de la Microsoft Store desde el enlace.
 
+![imagen](/ima/9.png.jpg)
 
-![](/ima/9.png.jpg)
 
 Cuando termino la descarga,iniciamos la aplicasion y esperamos que termine el proceso y establesemos nuestro usuario y contraseña de nueestra distribucion en linux.
 
 
-![](/ima/10.png.jpg)
+![imagen](/ima/10.png.jpg)
 
 
 Abrimos Powershell presionando la combinacion de las teclas Windows + r y escribimos powershel, y le damos aceptar.
 
 
-![](/ima/11.png.jpg)
+![imagen](/ima/11.png.jpg)
 
 Nos abrira una terminal donde ejecutaremos el siguiente comando, Wsl -- list -- verbose, donde al ejecutarse se despliega una lista de distribucones instaladas en la maquina.
 
 
-![](/ima/12.png.jpg)
+![imagen](/ima/12.png.jpg)
 
 Establesemos la version 2 y corremos el siguiente comando  wsl -- set - version.
 
 
-![](/ima/13.png.jpg)
+![imagen](/ima/13.png.jpg)
 
 Listo, tenemos WSL2  disponible para desarrollar.
 
