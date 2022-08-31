@@ -21,19 +21,19 @@ WSL necesita menos recursos (CPU, memoria y almacenamiento) que una máquina vir
 
 ### servicios de Windows que deben habilitarse para la correcta ejecución de WSL2.
 
-![](1.PNG)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
-![](7.1.png)
-![](8.png)
-![](9.png)
-![](10.png)
-![](11.png)
-![](12.png)
-![](13.png)
+![](/ima/1.PNG1)
+![](/ima/2.png)
+![](/ima/3.png)
+![](/ima/4.png)
+![](/ima/5.png)
+![](/ima/6.png)
+![](/ima/7.1.png)
+![](/ima/8.png)
+![](/ima/9.png)
+![](/ima/10.png)
+![](/ima/11.png)
+![](/ima/12.png)
+![](/ima/13.png)
 
 
 holaaa
