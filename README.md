@@ -28,6 +28,7 @@ Para la correcta ejecucion del servicios de Windows que deben habilitarse para l
 
 ![imagen](/ima/1.png)
 
+
 Se procede hacer la intalacion de WSL2, dando continuacion a cada uno de los pasos a seguir. Ya que es una herrmienta de desarrollo muy popular en window.
 
 
