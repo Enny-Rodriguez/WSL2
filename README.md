@@ -84,12 +84,19 @@ Establesemos la version 2 y corremos el siguiente comando  wsl -- set - version.
 
 Listo, tenemos WSL2  disponible para desarrollar.
 
+## COMANDOS Y DESCRIPCIONES
+
 ![](/ima/comandos.jpg)
 
-![](/ima/punto7.jpg)
 
 ## UBUNTU
 
+![](/ima/punto7.jpg)
+
 Ubuntu es una de las distribuciones Linux más populares y utilizadas por los usuarios, especialmente por aquellos que empiezan a dar los primeros pasos en este sistema operativo. esta es una de las más sencillas de instalar, configurar y usar, lo que la convierte en un gran punto de partida a partir del cual empezar a aprender. Y aunque esta distro está pensada para que ningún usuario pueda tener problemas, siempre hay puntos de esta que pueden llevarnos a confusión. Sobre todo, a la hora de instalar Ubuntu, ya que el sistema de archivos es completamente diferente a lo que conocemos de Windows.
+
+## MENU DE CONFIGURACION DURANTE LA INSTALACION
+
+
 
 
