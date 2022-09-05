@@ -98,6 +98,10 @@ Ubuntu es una de las distribuciones Linux más populares y utilizadas por los us
 
 ## MENU DE CONFIGURACION DURANTE LA INSTALACION
 
+## PRUEBA EN LA CONSOLA DE LINUX
+
+![](/ima/PruebaConsola.jpeg)
+
 
 
 
